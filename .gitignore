@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment
+.venv/
+
